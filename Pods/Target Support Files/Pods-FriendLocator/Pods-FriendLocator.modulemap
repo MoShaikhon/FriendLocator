@@ -1,0 +1,6 @@
+framework module Pods_FriendLocator {
+  umbrella header "Pods-FriendLocator-umbrella.h"
+
+  export *
+  module * { export * }
+}
